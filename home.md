@@ -12,6 +12,7 @@ title: HOME
 👉 [HR Summary Dashboard on Tableau Public](https://public.tableau.com/views/HRDashboard_17607540673410/HRSummary?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)](https://public.tableau.com/views/HRDashboard_17607540673410/HRSummary?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ![HR Dashboard Screenshot](dashboard.png)
+![HR Dashboard Screenshot](description.png)
 
 *The dashboard is fully interactive — explore employee metrics, attrition trends, and departmental insights in real time.*
 
